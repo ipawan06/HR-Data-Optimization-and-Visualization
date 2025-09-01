@@ -49,6 +49,6 @@ This project focuses on optimizing and visualizing HR data by normalizing the da
 ---
 
 ##  Author
-**👤 Pawan Kalyan Ramisetty Narayanswamy**  
+**👤 Pawan Kalyan Ramisetty Narayanaswamy**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/pawan6/)  
 📧 006pawank@gmail.com  
