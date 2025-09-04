@@ -42,7 +42,6 @@ This project focuses on optimizing and visualizing HR data by normalizing the da
 ## 📂 Files
 - `Phase3_FDE.twb` → Tableau workbook (dashboard)  
 - `PROJECT_Phase_3_FDE.hyper` → Extracted dataset  
-- `9285d7de-c0a2-4550-8a65-dd7d89bc832f.png` → Dashboard screenshot  
 - `Phase_3_FDE.docx` → Project documentation  
 
 
